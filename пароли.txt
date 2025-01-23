@@ -1,0 +1,5 @@
+логин: marinad
+пароль: marinad
+ссылки на UX:https://www.figma.com/design/RUBOvgxR1dkVUYAD6yy15o/Untitled?node-id=242-2&m=dev&t=lp0mlZkWhfMYExmU-1
+
+ссылки на UI: https://www.figma.com/design/RUBOvgxR1dkVUYAD6yy15o/Untitled?node-id=0-1&m=dev&t=lp0mlZkWhfMYExmU-1
